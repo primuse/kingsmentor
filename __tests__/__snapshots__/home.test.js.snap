@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Page component renders correctly 1`] = `
+<div
+  className="post-feed"
+>
+  <div
+    className="card"
+  >
+    <div
+      className="card-content"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        <header>
+          Preventing Unwanted Content from Google Keyboard
+        </header>
+        <p>
+          This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture so that a user running an arm ABI doesn’t receive the code for x86, and so on. To do this, add the following to your app level build.gradle file
+        </p>
+      </a>
+      <footer>
+        <a
+          className="avatar-cont sc-bdVaJa jvfdnP"
+          href="/"
+        >
+          <div
+            className="tooltip sc-bwzfXH bhESHo"
+          >
+            Nosa Belvi
+          </div>
+          <img
+            className="sc-htpNat dXpwIA"
+            src="test-file-stub"
+          />
+        </a>
+        <h5>
+          2 MIN READ
+        </h5>
+      </footer>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <div
+      className="card-content"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        <header>
+          Preventing Unwanted Content from Google Keyboard
+        </header>
+        <p>
+          This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture so that a user running an arm ABI doesn’t receive the code for x86, and so on. To do this, add the following to your app level build.gradle file
+        </p>
+      </a>
+      <footer>
+        <a
+          className="avatar-cont sc-bdVaJa jvfdnP"
+          href="/"
+        >
+          <div
+            className="tooltip sc-bwzfXH bhESHo"
+          >
+            Nosa Belvi
+          </div>
+          <img
+            className="sc-htpNat dXpwIA"
+            src="test-file-stub"
+          />
+        </a>
+        <h5>
+          2 MIN READ
+        </h5>
+      </footer>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <div
+      className="card-content"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        <header>
+          Preventing Unwanted Content from Google Keyboard
+        </header>
+        <p>
+          This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture so that a user running an arm ABI doesn’t receive the code for x86, and so on. To do this, add the following to your app level build.gradle file.
+        </p>
+      </a>
+      <footer>
+        <a
+          className="avatar-cont sc-bdVaJa jvfdnP"
+          href="/"
+        >
+          <div
+            className="tooltip sc-bwzfXH bhESHo"
+          >
+            Nosa Belvi
+          </div>
+          <img
+            className="sc-htpNat dXpwIA"
+            src="test-file-stub"
+          />
+        </a>
+        <h5>
+          2 MIN READ
+        </h5>
+      </footer>
+    </div>
+  </div>
+</div>
+`;
