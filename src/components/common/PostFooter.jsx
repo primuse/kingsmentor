@@ -31,7 +31,8 @@ const Tooltip = styled.div`
 const Avatar = styled.img.attrs(props => ({
   src: props.src
 }))`
-  width: 34px;
+  width: ${props => (props.width ? props.width : '34px')};
+  border-radius: ${props => (props.borderRadius ? props.borderRadius : 'unset')};
 `;
 
 export { Avatar, AvatarCont, Tooltip };
