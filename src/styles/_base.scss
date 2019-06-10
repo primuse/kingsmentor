@@ -16,6 +16,7 @@ body {
   font-size: 1.6rem; // equivalent to the default 16px font-size
   background: $brand-color;
   margin: 0;
+  margin-bottom: 124px;
 }
 
 .container {
@@ -27,4 +28,10 @@ body {
 a {
   color: inherit;
   text-decoration: none;
+}
+
+h5 {
+  display: inline;
+  font-weight: $medium;
+  font-size: 1.2rem;
 }

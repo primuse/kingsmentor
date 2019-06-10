@@ -1,122 +1,313 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Home Page component renders correctly 1`] = `
-<div
-  className="post-feed"
->
+Array [
   <div
-    className="card"
+    className="container banner"
   >
+    <div>
+      <img
+        className="sc-htpNat fRSOem"
+        src="https://yt3.ggpht.com/a-/AN66SAy46JU-97ZuX23xSTCL0TH4oOsnIGmyf4qUTg=s900-mo-c-c0xffffffff-rj-k-no"
+        width="60px"
+      />
+    </div>
+    <h2>
+      Making things work ... and work well - Mobile Engineer
+    </h2>
     <div
-      className="card-content"
+      className="nav"
     >
       <a
         href="/"
         onClick={[Function]}
       >
-        <header>
-          Preventing Unwanted Content from Google Keyboard
-        </header>
-        <p>
-          This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture so that a user running an arm ABI doesn’t receive the code for x86, and so on. To do this, add the following to your app level build.gradle file
-        </p>
+        <h5>
+          GITHUB
+        </h5>
       </a>
-      <footer>
+      <div
+        className="icons"
+      >
         <a
-          className="avatar-cont sc-bdVaJa jvfdnP"
           href="/"
+          onClick={[Function]}
         >
-          <div
-            className="tooltip sc-bwzfXH bhESHo"
-          >
-            Nosa Belvi
-          </div>
           <img
-            className="sc-htpNat dXpwIA"
+            className="sc-htpNat gDtXvd"
             src="test-file-stub"
+            width="20px"
           />
         </a>
-        <h5>
-          2 MIN READ
-        </h5>
-      </footer>
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <img
+            className="sc-htpNat gDtXvd"
+            src="test-file-stub"
+            width="20px"
+          />
+        </a>
+      </div>
     </div>
-  </div>
+  </div>,
   <div
-    className="card"
+    className="post-feed container"
   >
     <div
-      className="card-content"
+      className="card"
     >
-      <a
-        href="/"
-        onClick={[Function]}
+      <div
+        className="card-content"
       >
-        <header>
-          Preventing Unwanted Content from Google Keyboard
-        </header>
-        <p>
-          This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture so that a user running an arm ABI doesn’t receive the code for x86, and so on. To do this, add the following to your app level build.gradle file
-        </p>
-      </a>
-      <footer>
         <a
-          className="avatar-cont sc-bdVaJa jvfdnP"
           href="/"
+          onClick={[Function]}
         >
-          <div
-            className="tooltip sc-bwzfXH bhESHo"
-          >
-            Nosa Belvi
-          </div>
-          <img
-            className="sc-htpNat dXpwIA"
-            src="test-file-stub"
-          />
+          <header>
+            Preventing Unwanted Content from Google Keyboard
+          </header>
+          <p>
+            This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture.
+          </p>
         </a>
-        <h5>
-          2 MIN READ
-        </h5>
-      </footer>
+        <footer>
+          <a
+            className="avatar-cont sc-bdVaJa jvfdnP"
+            href="/"
+          >
+            <div
+              className="tooltip sc-bwzfXH bhESHo"
+            >
+              Nosa Belvi
+            </div>
+            <img
+              className="sc-htpNat XITWc"
+              src="test-file-stub"
+            />
+          </a>
+          <h5>
+            2 MIN READ
+          </h5>
+        </footer>
+      </div>
     </div>
-  </div>
+    <div
+      className="card"
+    >
+      <div
+        className="card-content"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <header>
+            Preventing Unwanted Content from Google Keyboard
+          </header>
+          <p>
+            This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture.
+          </p>
+        </a>
+        <footer>
+          <a
+            className="avatar-cont sc-bdVaJa jvfdnP"
+            href="/"
+          >
+            <div
+              className="tooltip sc-bwzfXH bhESHo"
+            >
+              Nosa Belvi
+            </div>
+            <img
+              className="sc-htpNat XITWc"
+              src="test-file-stub"
+            />
+          </a>
+          <h5>
+            2 MIN READ
+          </h5>
+        </footer>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <div
+        className="card-content"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <header>
+            Preventing Unwanted Content from Google Keyboard
+          </header>
+          <p>
+            This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture.
+          </p>
+        </a>
+        <footer>
+          <a
+            className="avatar-cont sc-bdVaJa jvfdnP"
+            href="/"
+          >
+            <div
+              className="tooltip sc-bwzfXH bhESHo"
+            >
+              Nosa Belvi
+            </div>
+            <img
+              className="sc-htpNat XITWc"
+              src="test-file-stub"
+            />
+          </a>
+          <h5>
+            2 MIN READ
+          </h5>
+        </footer>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <div
+        className="card-content"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <header>
+            Preventing Unwanted Content from Google Keyboard
+          </header>
+          <p>
+            This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture.
+          </p>
+        </a>
+        <footer>
+          <a
+            className="avatar-cont sc-bdVaJa jvfdnP"
+            href="/"
+          >
+            <div
+              className="tooltip sc-bwzfXH bhESHo"
+            >
+              Nosa Belvi
+            </div>
+            <img
+              className="sc-htpNat XITWc"
+              src="test-file-stub"
+            />
+          </a>
+          <h5>
+            2 MIN READ
+          </h5>
+        </footer>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <div
+        className="card-content"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <header>
+            Preventing Unwanted Content from Google Keyboard
+          </header>
+          <p>
+            This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture.
+          </p>
+        </a>
+        <footer>
+          <a
+            className="avatar-cont sc-bdVaJa jvfdnP"
+            href="/"
+          >
+            <div
+              className="tooltip sc-bwzfXH bhESHo"
+            >
+              Nosa Belvi
+            </div>
+            <img
+              className="sc-htpNat XITWc"
+              src="test-file-stub"
+            />
+          </a>
+          <h5>
+            2 MIN READ
+          </h5>
+        </footer>
+      </div>
+    </div>
+    <div
+      className="card"
+    >
+      <div
+        className="card-content"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <header>
+            Preventing Unwanted Content from Google Keyboard
+          </header>
+          <p>
+            This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture.
+          </p>
+        </a>
+        <footer>
+          <a
+            className="avatar-cont sc-bdVaJa jvfdnP"
+            href="/"
+          >
+            <div
+              className="tooltip sc-bwzfXH bhESHo"
+            >
+              Nosa Belvi
+            </div>
+            <img
+              className="sc-htpNat XITWc"
+              src="test-file-stub"
+            />
+          </a>
+          <h5>
+            2 MIN READ
+          </h5>
+        </footer>
+      </div>
+    </div>
+  </div>,
   <div
-    className="card"
+    className="footer"
   >
     <div
-      className="card-content"
+      className="container"
     >
-      <a
-        href="/"
-        onClick={[Function]}
-      >
-        <header>
-          Preventing Unwanted Content from Google Keyboard
-        </header>
-        <p>
-          This is especially useful if your project includes libraries written in native code (.so files) which support different CPU architectures. You can split your APK per architecture so that a user running an arm ABI doesn’t receive the code for x86, and so on. To do this, add the following to your app level build.gradle file.
-        </p>
-      </a>
-      <footer>
+      <h4>
+        Kingsmentor© 2019
+      </h4>
+      <nav>
         <a
-          className="avatar-cont sc-bdVaJa jvfdnP"
           href="/"
+          onClick={[Function]}
         >
-          <div
-            className="tooltip sc-bwzfXH bhESHo"
-          >
-            Nosa Belvi
-          </div>
-          <img
-            className="sc-htpNat dXpwIA"
-            src="test-file-stub"
-          />
+          Latest Posts
         </a>
-        <h5>
-          2 MIN READ
-        </h5>
-      </footer>
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Twitter
+        </a>
+      </nav>
     </div>
-  </div>
-</div>
+  </div>,
+]
 `;

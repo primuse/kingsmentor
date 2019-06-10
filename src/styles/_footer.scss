@@ -1,0 +1,31 @@
+.footer {
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  height: 70px;
+  background-color: $black;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #CECECE;
+  
+  div {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  h4 {
+    font-weight: $medium;
+  }
+
+  nav {
+    margin-right: 30px;
+    a {
+      font-size: 1.5rem;
+      display: inline-block;
+      margin: 23px 0;
+    }
+  }
+  a:first-child {
+    padding-right: 15px;
+  }
+}

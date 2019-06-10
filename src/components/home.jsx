@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import Cards from './common/cards.jsx';
 import Banner from './banner.jsx';
+import Footer from './common/footer.jsx';
 
 const Home = () => (
   <Fragment>
@@ -55,6 +56,7 @@ const Home = () => (
         time='2 MIN READ'
       />
     </div>
+    <Footer />
   </Fragment>
 );
 

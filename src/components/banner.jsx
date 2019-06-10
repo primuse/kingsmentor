@@ -14,7 +14,7 @@ const Banner = () => (
     </div>
     <h2>Making things work ... and work well - Mobile Engineer</h2>
     <div className='nav'>
-      <Link to='/'>GITHUB</Link>
+      <Link to='/'><h5>GITHUB</h5></Link>
       <div className='icons'>
         <Link to='/'>
           <Avatar src={Twitter} width='20px' />
